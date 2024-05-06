@@ -26,14 +26,14 @@ Seeking my first opportunity and next challenge in data and project management s
   [![Python Badge](https://img.shields.io/badge/-AdvanceDataMining-white?style=plastic&logo=python&logoColor=F7BD2F&link=https://github.com/YogevLD/Advance-data-mining-in-python.git)](https://github.com/YogevLD/Advance-data-mining-in-python.git)
 
 
-- Machine Learning frameworks :
-- 
+- Unsupervised Machine Learning Learning :
+  
   [![Python Badge](https://img.shields.io/badge/-UnsupervisedLearningRepository-white?style=plastic&logo=python&logoColor=F7BD2F&link=https://github.com/YogevLD/Unsupervised-Learning-.git)](https://github.com/YogevLD/Unsupervised-Learning-.git)
   
   [![Jupyter Notebook Badge](https://img.shields.io/badge/-Recall_Unsupervised-ffffff?style=plastic&logo=jupyter&logoColor=F37626&link=https://github.com/YogevLD/Unsupervised-Learning-.git)](https://github.com/YogevLD/Unsupervised-Learning-.git)
   [![Jupyter Notebook Badge](https://img.shields.io/badge/-Clustering_task-ffffff?style=plastic&logo=jupyter&logoColor=F37626&link=https://github.com/YogevLD/Unsupervised-Learning-.git)](https://github.com/YogevLD/Unsupervised-Learning-.git)
   
-- Advanced Machine Learning:
+- Supervised Machine Learning:
   
   [![Python Badge](https://img.shields.io/badge/-AdvancedMachineLearningRepository-white?style=plastic&logo=python&logoColor=F7BD2F&link=https://github.com/YogevLD/Advanced-Machine-learning.git)](https://github.com/YogevLD/Advanced-Machine-learning.git)
   
