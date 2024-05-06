@@ -21,20 +21,25 @@ Seeking my first opportunity and next challenge in data and project management s
 **Technologies and Tools I've been learning and used so far:**
 <div align="left">
  
-- Data Minimg in Python :
+- Data Mining in Python:
+    
+  [![Python Badge](https://img.shields.io/badge/-AdvanceDataMining-white?style=plastic&logo=python&logoColor=F7BD2F&link=https://github.com/YogevLD/Advance-data-mining-in-python.git)](https://github.com/YogevLD/Advance-data-mining-in-python.git)
+
+
+- Machine Learning frameworks :
+- 
+  [![Python Badge](https://img.shields.io/badge/-UnsupervisedLearningRepository-white?style=plastic&logo=python&logoColor=F7BD2F&link=https://github.com/YogevLD/Unsupervised-Learning-.git)](https://github.com/YogevLD/Unsupervised-Learning-.git)
   
-[![Python Badge](https://img.shields.io/badge/-AdvanceDataMining-white?style=plastic&logo=python&logoColor=F7BD2F&link=https://github.com/YogevLD/Advance-data-mining-in-python.git)](https://github.com/YogevLD/Advance-data-mining-in-python.git)
+  [![Jupyter Notebook Badge](https://img.shields.io/badge/-Recall_Unsupervised-ffffff?style=plastic&logo=jupyter&logoColor=F37626&link=https://github.com/YogevLD/Unsupervised-Learning-.git)](https://github.com/YogevLD/Unsupervised-Learning-.git)
+  [![Jupyter Notebook Badge](https://img.shields.io/badge/-Clustering_task-ffffff?style=plastic&logo=jupyter&logoColor=F37626&link=https://github.com/YogevLD/Unsupervised-Learning-.git)](https://github.com/YogevLD/Unsupervised-Learning-.git)
+  
+- Advanced Machine Learning:
+  
+  [![Python Badge](https://img.shields.io/badge/-AdvancedMachineLearningRepository-white?style=plastic&logo=python&logoColor=F7BD2F&link=https://github.com/YogevLD/Advanced-Machine-learning.git)](https://github.com/YogevLD/Advanced-Machine-learning.git)
+  
+  [![Python Badge](https://img.shields.io/badge/-Gradient_Descent-white?style=plastic&logo=python&logoColor=F7BD2F&link=https://github.com/YogevLD/Advanced-Machine-learning.git)](https://github.com/YogevLD/Advanced-Machine-learning.git)
+</div>
 
-- Machine Learning / Deep Learning frameworks :
- 
-  [![Jupyter Notebook Badge](https://img.shields.io/badge/-PropertiesPricePrediction-white?style=plastic&logo=python&logoColor=F7BD2F&link=https://github.com/shonshchori/PropertiesPricePrediction)](https://github.com/shonshchori/PropertiesPricePrediction)
-[![Jupyter Notebook Badge](https://img.shields.io/badge/-Jupyter%20Notebook-white?style=plastic&logo=visual-studio-code;logoColor=007ACC&link=https://github.com/shonshchori/Introduction-to-Data-Analytics-Project-Poland-cars)](https://github.com/shonshchori/Introduction-to-Data-Analytics-Project-Poland-cars)
- 
-- Backend :
-
-  [![MySQL Badge](https://img.shields.io/badge/-MySQL-white?style=plastic&logo=MySQL&logoColor=4479A1&link=https://github.com/shonshchori)](https://github.com/shonshchori/studentdbProject)
-  [![SQLite Badge](https://img.shields.io/badge/-SQLite-white?style=plastic&logo=SQLite&logoColor=4479A1&link=https://github.com/shonshchori)](https://github.com/shonshchori)
- 
  
 </div>
   
