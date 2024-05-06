@@ -18,14 +18,13 @@ Seeking my first opportunity and next challenge in data and project management s
 
 
 #
-**Technologies I've been learning and using so far:**
+**Technologies and Tools I've been learning and used so far:**
 <div align="left">
  
-- Programming languages :
+- Data Minimg in Python :
   
-  [![Python Badge](https://img.shields.io/badge/-StudentDatabaseApp-white?style=plastic&logo=python&logoColor=F7BD2F&link=https://github.com/shonshchori/studentdbProject)](https://github.com/shonshchori/studentdbProject)
-[![Python Badge](https://img.shields.io/badge/-PythonHangmanGame-white?style=plastic&logo=python&logoColor=F7BD2F&link=https://github.com/shonshchori/Hangman)](https://github.com/shonshchori/Hangman)
- 
+[![Python Badge](https://img.shields.io/badge/-AdvanceDataMining-white?style=plastic&logo=python&logoColor=F7BD2F&link=https://github.com/YogevLD/Advance-data-mining-in-python.git)](https://github.com/YogevLD/Advance-data-mining-in-python.git)
+
 - Machine Learning / Deep Learning frameworks :
  
   [![Jupyter Notebook Badge](https://img.shields.io/badge/-PropertiesPricePrediction-white?style=plastic&logo=python&logoColor=F7BD2F&link=https://github.com/shonshchori/PropertiesPricePrediction)](https://github.com/shonshchori/PropertiesPricePrediction)
