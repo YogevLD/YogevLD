@@ -26,7 +26,7 @@ Seeking my first opportunity and next challenge in data and project management s
   [![Python Badge](https://img.shields.io/badge/-AdvanceDataMining-white?style=plastic&logo=python&logoColor=F7BD2F&link=https://github.com/YogevLD/Advance-data-mining-in-python.git)](https://github.com/YogevLD/Advance-data-mining-in-python.git)
 
 
-- Unsupervised Machine Learning Learning :
+- Unsupervised Machine Learning :
   
   [![Python Badge](https://img.shields.io/badge/-UnsupervisedLearningRepository-white?style=plastic&logo=python&logoColor=F7BD2F&link=https://github.com/YogevLD/Unsupervised-Learning-.git)](https://github.com/YogevLD/Unsupervised-Learning-.git)
   
