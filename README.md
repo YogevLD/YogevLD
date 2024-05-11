@@ -1,6 +1,6 @@
 # Yogev-Ladani
 # Hello there 🤗 I'm Yogev, 4th year Industrial Engineering major Data science student.
-:bulb: **I'm Seeking to create possibilities out of opportunities.**
+:bulb: **🔍 Always on the lookout for my next challenge, eager to seize opportunities and expand my expertise.🌟💼**
 <div align="left">
  
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yogev-ladani-a57293235/)](https://www.linkedin.com/in/yogev-ladani-a57293235/)
