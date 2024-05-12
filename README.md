@@ -14,7 +14,7 @@ A 4th-year Student of Industrial Engineering (Data Science major), Dean's list f
 
 Seeking my first opportunity and next challenge in data and project management specialization.
 
-:mortar_board: Beyond my studies, I actively engage in projects to continuously expand my knowledge and expertise in the realm of data science.
+:mortar_board::bulb: Beyond my studies, I actively engage in projects to continuously expand my knowledge and expertise in the realm of data science.
 
 
 #
