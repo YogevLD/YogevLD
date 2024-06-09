@@ -1,4 +1,4 @@
-# Yogev-Ladani
+# Yogev Ladani
 # Hello there 🤗 I'm Yogev, 4th year Industrial Engineering major Data science student.
 :bulb: **🔍 Always on the lookout for my next challenge, eager to seize opportunities and expand my expertise.🌟💼**
 <div align="left">
