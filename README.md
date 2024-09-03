@@ -1,5 +1,5 @@
 # Yogev Ladani
-# Hello there 🤗 I'm Yogev, 4th year Industrial Engineering major Data science student.
+# Hello there 🤗 I'm Yogev, a graduate in Industrial Engineering with a specialization in Data Science.
 :bulb: **🔍 Always on the lookout for my next challenge, eager to seize opportunities and expand my expertise.🌟💼**
 <div align="left">
  
@@ -10,9 +10,9 @@
 
 ### About myself
 
-A 4th-year Student of Industrial Engineering (Data Science major), Dean's list for the first three years of study. Creative and motivated with strong analytical and self-learning skills. Experienced in Python, SQL, Office, and other tools, as well as in team leadership and management under pressure. A multitasker with excellent interpersonal communication and great teamwork skills, coupled with high self-discipline.
+I am a recent graduate of Industrial Engineering (Data Science major), having consistently achieved a place on the Dean's list throughout my studies. I am a creative and motivated individual with strong analytical and self-learning skills. My experience spans Python, SQL, Office, and other tools, as well as leadership and management in high-pressure environments. I excel at multitasking, possess excellent interpersonal communication skills, and have a high level of self-discipline.
 
-Seeking my first opportunity and next challenge in data and project management specialization.
+I am currently seeking opportunities and challenges in the fields of data and project management.
 
 :mortar_board::bulb: Beyond my studies, I actively engage in projects to continuously expand my knowledge and expertise in the realm of data science.
 
